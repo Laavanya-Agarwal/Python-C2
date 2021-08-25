@@ -5,7 +5,7 @@ def SwapFileData():
     #to choose the files
     with open(file1, 'r') as no1:
         data_no1 = no1.read()
-	with open(file2, 'r') as no2:
+    with open(file2, 'r') as no2:
         data_no2 = no2.read()
 
     #to swap the files
